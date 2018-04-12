@@ -7,7 +7,7 @@
     "build": "babel src -d dist"
   },
   "keywords": [],
-  "author": "Rajiv Shankar",
+  "author": "RajivShankar",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
